@@ -1,0 +1,1 @@
+<h1>Quantidade de rodas: <?php echo $this->carro->getRoda(); ?> </h1>
